@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10.0.2" class="java.beans.XMLDecoder">
+ <object class="Car">
+  <void property="brand">
+   <string>Lamborghini</string>
+  </void>
+  <void property="price">
+   <object class="java.math.BigDecimal">
+    <string>417826</string>
+   </object>
+  </void>
+ </object>
+</java>
